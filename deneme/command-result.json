@@ -1,0 +1,81 @@
+[ {
+  "screenShotFilePath" : "actions - 1740388360569.png",
+  "method" : "POST",
+  "requestData" : "{actions=[org.openqa.selenium.interactions.Sequence@5a1c3cb4]}",
+  "responseData" : "",
+  "requestPath" : "actions",
+  "startDate" : 1740388357369,
+  "runtime" : 1908,
+  "endDate" : 1740388359277,
+  "level" : "success"
+}, {
+  "screenShotFilePath" : "findElement - 1740388364583.png",
+  "method" : "POST",
+  "requestData" : "{using=accessibility id, value=Genel}",
+  "responseData" : "{element-6066-11e4-a52e-4f735466cecf=1B000000-0000-0000-213E-000000000000, ELEMENT=1B000000-0000-0000-213E-000000000000}",
+  "requestPath" : "findElement",
+  "startDate" : 1740388362580,
+  "runtime" : 1122,
+  "endDate" : 1740388363702,
+  "level" : "success"
+}, {
+  "screenShotFilePath" : "clickElement - 1740388366641.png",
+  "method" : "POST",
+  "requestData" : "{id=1B000000-0000-0000-213E-000000000000}",
+  "responseData" : "",
+  "requestPath" : "clickElement",
+  "startDate" : 1740388364588,
+  "runtime" : 1373,
+  "endDate" : 1740388365961,
+  "level" : "success"
+}, {
+  "screenShotFilePath" : "findElement - 1740388368233.png",
+  "method" : "POST",
+  "requestData" : "{using=xpath, value=//XCUIElementTypeButton[@name=\"Ayarlar\"]}",
+  "responseData" : "{element-6066-11e4-a52e-4f735466cecf=91010000-0000-0000-213E-000000000000, ELEMENT=91010000-0000-0000-213E-000000000000}",
+  "requestPath" : "findElement",
+  "startDate" : 1740388366644,
+  "runtime" : 970,
+  "endDate" : 1740388367614,
+  "level" : "success"
+}, {
+  "screenShotFilePath" : "clickElement - 1740388369536.png",
+  "method" : "POST",
+  "requestData" : "{id=91010000-0000-0000-213E-000000000000}",
+  "responseData" : "",
+  "requestPath" : "clickElement",
+  "startDate" : 1740388368235,
+  "runtime" : 551,
+  "endDate" : 1740388368786,
+  "level" : "success"
+}, {
+  "screenShotFilePath" : "actions - 1740388372453.png",
+  "method" : "POST",
+  "requestData" : "{actions=[org.openqa.selenium.interactions.Sequence@15405bd6]}",
+  "responseData" : "",
+  "requestPath" : "actions",
+  "startDate" : 1740388369540,
+  "runtime" : 2051,
+  "endDate" : 1740388371591,
+  "level" : "success"
+}, {
+  "screenShotFilePath" : "findElement - 1740388376444.png",
+  "method" : "POST",
+  "requestData" : "{using=accessibility id, value=Gizlilik}",
+  "responseData" : "{element-6066-11e4-a52e-4f735466cecf=26000000-0000-0000-213E-000000000000, ELEMENT=26000000-0000-0000-213E-000000000000}",
+  "requestPath" : "findElement",
+  "startDate" : 1740388374461,
+  "runtime" : 1120,
+  "endDate" : 1740388375581,
+  "level" : "success"
+}, {
+  "screenShotFilePath" : "clickElement - 1740388378549.png",
+  "method" : "POST",
+  "requestData" : "{id=26000000-0000-0000-213E-000000000000}",
+  "responseData" : "",
+  "requestPath" : "clickElement",
+  "startDate" : 1740388376446,
+  "runtime" : 1384,
+  "endDate" : 1740388377830,
+  "level" : "success"
+} ]
